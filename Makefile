@@ -15,7 +15,7 @@
 ######################################
 TARGET = cmsis_freertos_stm32f4
 
-LIB_OUTFILE  = libcmsis_rtos2_stm32f4.a
+LIB_OUTFILE  = libcmsis_rtos2.a
 
 
 ######################################
